@@ -1,0 +1,15 @@
+[Thu Jan 22 10:59:01 +01 2026] 🚨 ALERT: CPU is High (84%). Restarting Server...
+[Thu Jan 22 11:00:01 +01 2026] ✅ OK: System is stable (59%).
+[Thu Jan 22 11:01:01 +01 2026] 🚨 ALERT: CPU is High (81%). Restarting Server...
+[Thu Jan 22 11:02:00 +01 2026] ✅ OK: System is stable (58%).
+[Thu Jan 22 11:03:00 +01 2026] ✅ OK: System is stable (37%).
+[Thu Jan 22 11:04:01 +01 2026] ✅ OK: System is stable (60%).
+[Thu Jan 22 11:05:01 +01 2026] ✅ OK: System is stable (40%).
+[Thu Jan 22 11:06:01 +01 2026] ✅ OK: System is stable (7%).
+[Thu Jan 22 11:07:01 +01 2026] ✅ OK: System is stable (57%).
+[Thu Jan 22 11:08:01 +01 2026] ✅ OK: System is stable (67%).
+[Thu Jan 22 11:09:01 +01 2026] ✅ OK: System is stable (11%).
+[Thu Jan 22 11:10:01 +01 2026] ✅ OK: System is stable (73%).
+[Thu Jan 22 11:11:00 +01 2026] ✅ OK: System is stable (10%).
+[Thu Jan 22 11:12:02 +01 2026] 🚨 ALERT: CPU is High (94%). Restarting Server...
+[Thu Jan 22 11:13:01 +01 2026] ✅ OK: System is stable (0%).
